@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bettingStrategies"
+        android:title="@string/betting_strategies"
+        android:icon="@drawable/ic_strategies_list"/>
+
+    <item
+        android:id="@+id/favouriteStrategies"
+        android:title="@string/favourite_strategies"
+        android:icon="@drawable/ic_filled_favorite"/>
+
+</menu>

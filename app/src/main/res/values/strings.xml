@@ -1,0 +1,107 @@
+<resources>
+    <string name="app_name">BettingStrategies</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="betting_strategies">Betting Strategies</string>
+    <string name="favourite_strategies">Favourite Strategies</string>
+    <string name="havent_saved">You haven\'t saved anything yet.</string>
+    <string name="title_holder">TITLE</string>
+    <string name="description_holder">DESCRIPTION:</string>
+
+    <string-array name="strategies_names">
+        <item>1X on home outsiders strategy</item>
+        <item>All-in on odds at 1.20 strategy</item>
+        <item>The 1-3-2-6 system</item>
+        <item>The Fibonacci betting system</item>
+        <item>The Kelly formula</item>
+        <item>Dutching in sports betting</item>
+        <item>Early cashout in sports betting</item>
+        <item>Bet live on over 1.5 goals</item>
+        <item>Specialize in a league</item>
+        <item>What’s a Money Race?</item>
+    </string-array>
+    <string-array name="strategies_description">
+        <item>A betting strategy that has been successful in the past is the bet on the “double chance” 1X if an outsider plays against a favorite at home. In this case, the “1X” bet brings respectable odds and very interesting profit opportunities.
+You don’t even have to choose and analyze games that contain absolute extremes and obvious class differences with this strategy. So, you don’t necessarily have to bet against Barcelona, Bayern or Juventus as an away team. Here, we would probably move away from the value bets. Even if we opt for teams that are not big outsiders, but are still outsiders according to the odds, we find highly interesting odds between 1.60 and 2.50.
+As with all bets, it is important to analyze in advance and not blindly going for any team. You should of course take statistics into account, advance information about injuries and suspensions, as well as the current shape of the teams. The home advantage of the outsider, for whom games in front of their own audience against a “bigger one” also represent a special motivation, should not be underestimated as it brings another small advantage for the home team. Especially when the respective favorite has recently shown itself shaky against “smaller ones”, you can definitely find value in such an outsider bet with double chance</item>
+        <item>We use odds around 1.20 for this – ideally you should look for the bets you are playing live. As with the strategy of betting over 1.5 goals in what is estimated to be typical “over” games, you can wait here until the odds have reached the desired level. The over 0.5 bet is ideal here – i.e. the bet that the game will not end 0-0. Usually, after goalless 30 minutes, you get a rate of 1.20 – depending on the match, this can of course be lower, but sometimes even higher. Of course, it is a matter of taste with which type of bet you want to monetize your betting sequence, or money race‘ as it is also called.
+
+It is important that you always play roughly the same odds. This is certainly a test of patience and not particularly spectacular at first, but there is no exact goal and you can stop at any time and have your winnings paid out. For example, if you start such a series of bets with a stake of 10 €, that’s all you can lose. So you now find a bet with odds 1.20, win it and immediately play the 12 € you won again on odds that are around this amount. You win 14.40 € – which will be invested in the next bet.
+
+The profits will only become noticeable very slowly, but will increase sharply over time, because of course the stake grows higher and higher. If you actually manage to get 30 picks right in a row, your 10 € from the beginning will already be a whopping 2,373.76 €. After 35 correct pick we would already be at 5,906.68 € and after 40 correct picks at 14,697.71 €.</item>
+        <item>Like many betting systems, the 1-3-2-6 was designed for bets that pay out an even sum, like the red-black bets in roulette. In fact, it is widely used on the roulette table and in other casino games such as baccarat, dice games and blackjack. Basically, it doesn’t matter what you use it for, provided you are playing with even sums.
+
+As mentioned earlier, this is a very simple system. All you have to do is adjust your bets based on a few simple rules. First of all, you have to decide how high your betting unit should be. As a guide, once you’ve set the amount you’re willing to lose in one session, your betting unit should be around 2% to 5% of that.
+
+For example, if you wanted to play with a total of 500 €, 10 € would be a reasonable number. A bet unit is the amount you wager on the first bet in the sequence. After every lost bet, the sequence ends and you start a new one – and again you insert a betting unit.
+
+If you win a bet, you adjust your stake according to the sequence 1-3-2-6. So, if you win your first bet, the next time you increase your stake to € 30 (three betting units). If you win this too, you will place € 20 on your next bet. If you win this too, the next time you wager € 60. And already we have the 1-3-2-6 sequence.
+
+If you win the fourth, consecutive bet then the sequence is completed and you start all over again. Don’t forget, as soon as you lose, your stake will also reset to a betting unit.
+
+This is basically what the 1-3-2-6 betting system is all about. As long as you keep the simple set of rules in mind, you shouldn’t have any problems using this system successfully.</item>
+        <item>Fibonacci sequence betting is undoubtedly a controversial concept. But there are definitely sports bettors who were able to achieve great success with it. This strategy carries some risks, but with the necessary luck and the right nose, you can be successful while employing this strategy.
+
+The basic concept of betting according to the Fibonacci sequence is simple: bet on a tie. If you lose, just bet on the next tie according to a certain key and start increasing your stake.
+
+It is important that the odds for the tie are above 2.62 (more precisely: 2.618); luckily for those who want to employ this strategy, there are many tie bets for this minimum odds. The higher the rate, the better.</item>
+        <item>There are of course numerous ideas, concepts and formulas that can help you calculate the ideal stake on a bet. One of them is the Kelly formula.
+
+Of course, this is no guarantee that you will always bet correctly and the assessment of how likely the outcome of a game is, does still remain up to you. But the Kelly formula can help you choose the size of your bet.
+        The Kelly Formula hereby recommends that, given the probability that you have determined yourself and the odds you have chosen, you should bet 2.22% of your bankroll on this event.
+
+Now, of course, the use of this formula also depends heavily on your assessment of the probability. And if you consider a game outcome to be very likely and thus increase the value considerably, then it can happen that you get 30% or even more of your bankroll as a result. Of course, caution is advised here because your bankroll can slide down very quickly this way.</item>
+        <item>Dutching is the process of betting on more than one selection during the same event, so that no matter which selection wins, a profit can be made. This should not be confused with arbitrage, which involves betting on all possible outcomes of an event, so that a guaranteed profit is generated. This is only possible by using several bookmakers and only for a few events.
+
+Dutching is ideal for multi-outcome events where you think you can break the possible outcomes down to two or three; but in theory, you can bet on any number of selections. The fewer selections you make in dutching, the fewer losers you support and the more profit you make from them. However, by dutching fewer selections, you increase your risk.
+
+Dutching is best used when you either have information or have a very strong feeling that an outcome is very unlikely. If those unlikely outcomes have huge odds, then dutching is not worthwhile, but if you think the desired outcome is unlikely, then the remaining selections in dutching pay good dividends.</item>
+        <item>Have you ever regretted placing a particular bet and wished that you could somehow withdraw it? Or maybe you had doubts as to whether the team you supported could really hold the lead? If your answer to any of the questions is yes, then you’ll love the early withdrawal option. These properties give the speculator more control over the bets already placed and could ultimately make a big difference in the overall bankroll if you wager your cards correctly. The early payout is often referred to as the cashout by most sports betting sites.
+
+What is the early withdrawal option?
+
+The early withdrawal option allows sports bettors to withdraw their bets early, before they have been settled. So, you can either make a profit or get a part of your stake back, depending on your selection at that time. The feature is available as soon as you have placed your pre-match or in-play bet and the payout amount will fluctuate based on the events taking place in the game.
+
+The cashout feature is available for individual bets and accumulator bets, but note that it does not apply to all bet types, such as the outcome (1×2) and some other popular markets. Speculators can take advantage of the exciting option when placing their bets in soccer, tennis, basketball, cricket, baseball and even horse racing – on both desktop and mobile.
+
+When to make an early cashout
+
+If the team or player you are supporting is in a winning position but is being led out by the opponent, then you should definitely make a cashout and secure the appropriate profit instead of watching your potential profit and stake vanish into thin air. Your forecast proves correct and your choices lose the lead.
+
+Alternatively, the option of paying out can also be used to limit losses, which can be a very good strategy in the long term. If your selection doesn’t win at the moment, and it doesn’t seem like things are going to turn, it is wise to withdraw early on, so that you can be sure that you get some of your deposit back. This may not seem like a popular strategy, but it can definitely help speculators stay afloat for longer periods of time.</item>
+        <item>With this betting strategy, you are betting on live games on the bet type “Over 1.5 goals”.
+
+The “live over 1.5 goals” betting strategy
+
+Live betting on “over 1.5 goals” is a very lucrative betting strategy. This bet has an interesting advantage due to the development of the odds. First of all, you should do the same thing as with normal over / under bets. Find a game where you expect an over 2.5. Only use this betting strategy for bets where you expect this.
+
+Before the game, the odds of an over 1.5 will be very low. In some cases, it is no higher than 1.20. But while the game is running and the goals are missing, this rate increases almost every minute and becomes more and more lucrative. Now you have to be patient. Ideally – as with any bet – you should watch the game live at the same time in order to have the greatest possible advantage.
+        Now wait until the bet has odds between 1.50 and 2.00. The higher the better, but of course the timing is important. If a goal is scored, the bet is over before it has even started and you have to find a new game. This strategy only works if it is 0-0 long enough. Usually, you will have to wait until the 35th to 55th minute so that the odds on the over 1.5 are fair. However, we recommend that you still bet in the first half – it is important that the odds are 1.50 or higher.
+
+You analyzed the game before kick-off and expected an over 2.5. If you’re not completely wrong, goals will still be scored here. And we are eagerly awaiting the first goal as soon as the bet is played.
+
+If a goal is scored quite early after your bet, then you have – at least with most bookmakers who allow this – a profitable exit strategy: The odds for the over 1.5 will of course rattle off after the first goal. Now you can have the bet paid out via cashout, you can virtually “sell” it. You will definitely get out with a plus.
+
+The riskier option is to wait for the second goal and win the bet anyway. Here it is of course advisable to watch the game live. If there is a goal in the air, you can still wait and let the bet stand. If the game is a tense affair, then it may be better to sell the bet.
+
+In any case, for such a strategy it is advisable to bet with a betting company that allows a live cashout option. For more information on the subject of live betting, see also the live betting section of our page.</item>
+        <item>As mentioned in other posts, being informed about the games you want to bet on is absolutely essential. It is often difficult to obtain sufficient and good information, especially if you bet on a game in which you don’t know the teams good enough – or even not at all!
+
+Become a league specialist
+
+It is therefore advisable to specialize in a single country, ideally even in a single league. In the best scenario, you should choose a league in which there are numerous live TV games, the players are largely known and the media coverage is extensive. If you decide to only bet on games in the Estonian league, then in the long run it becomes more of a lottery than if you specialize in the English Premier League or the German Bundesliga.</item>
+        <item>A money race is a betting strategy in which the profit amount from a winning bet is invested directly in the next bet. This is usually continued through numerous bets until a desired amount of money is reached.
+
+How do you play Money Race?
+
+The Money Race can be run with all possible types of bets. In most cases, however, the focus is specifically on low odds and thus “safe bets”, in order to win as many bets as possible in a row. In this case, the Money Race is particularly interesting for sports bettors with a high bankroll. If the Money Race is started with a rather high initial stake, you will save yourself numerous necessary profits on the way to the self-imposed goal. At the same time, however, the risk of loss is also greater.
+
+If you decide to start a Money Race with 20 € and always bet on events with odds 1.20, you need 22 consecutive wins to get over 1,000 €. However, if you start with a stake of 100 €, after 13 bets you have won with odds of 1.20, you will exceed the 1,000 € mark. This is shown in this calculation example:
+
+20 € x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 = 1,104.12 €
+100 € x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 x 1.2 = 1,069.93 €
+With the help of higher odds, a Money Race can of course also be accelerated, but the risk of losing all winnings is significantly higher. Usually you vary your bet a bit; after all, it is also very important with the Money Race to avoid going wild, but to research well instead despite the low odds. As with all bets, it is important to bet when you are certain that the outcome is highly probable. Even if you are strongly focused on an average odd, in our example the rate 1.20, it is not a problem if there is a 1.40 or 1.50 in between. Here, too, research and conviction is of outmost importance.</item>
+    </string-array>
+
+
+</resources>
